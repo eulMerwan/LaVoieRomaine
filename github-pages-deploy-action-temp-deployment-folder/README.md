@@ -8,12 +8,7 @@
 
 La voie romaine est un jeu de dés en coopération.
 
-<aside>
-💡
-
-Le jeu est accompagné d’un vocabulaire spécifique qu’il est préférable d’apprendre pour une meilleure expérience de jeu. 
-
-</aside>
+> 💡 Le jeu est accompagné d’un vocabulaire spécifique qu’il est préférable d’apprendre pour une meilleure expérience de jeu. 
 
 ## **But du jeu**
 
@@ -40,12 +35,7 @@ Elle aura alors 5 coups pour faire un 5, puis 4 coups pour faire un 4 en cas de 
 
 Lorsque qu’un joueur est au carré d’un chiffre (au dernier coup donc) son but est de faire le chiffre en question pour descendre d’un palier. On dit qu’un joueur fait une goguenarde si le joueur fait le chiffre juste au dessus, c’est à dire celui que l’équipe devrait faire si jamais le joueur ne réussissait pas alors l’équipe reste au chiffre actuel et regagne le nombre de coups maximum. 
 
-<aside>
-📒
-
-**Exemple** : Le joueur est au carré de 3. il doit donc réussir à faire un 3 sinon l’équipe remontra à 4. Si le joueur fait un 4 alors l’équipe se maintient à 3 et a de nouveau 3 coups pour faire le 3.
-
-</aside>
+> 📒 **Exemple** : Le joueur est au carré de 3. il doit donc réussir à faire un 3 sinon l’équipe remontra à 4. Si le joueur fait un 4 alors l’équipe se maintient à 3 et a de nouveau 3 coups pour faire le 3.
 
 ---
 
@@ -55,30 +45,16 @@ Lorsque qu’un joueur est au carré d’un chiffre (au dernier coup donc) son b
 
 Le premier coup de chaque chiffre du dés est appelé “borrant”. 
 
-<aside>
-📒
-
-**Exemple** : le premier coup de 5 est **le borrant de 5**.
-
-</aside>
+> 📒 **Exemple** : le premier coup de 5 est **le borrant de 5**.
 
 ### Le Carré
 
 Le dernier coup de chaque chiffre du dés est appelé “carré”. 
 
-<aside>
-📒
+> 📒 **Exemple** : le dernier coup de 2 est appelé le carré de 2.
 
-**Exemple** : le dernier coup de 2 est appelé le carré de 2.
 
-</aside>
-
-<aside>
-💗
-
-Seul le carré de 4 à un nom spécifique, on l’appelle le “**Jim carré**”.
-
-</aside>
+> 💗 Seul le carré de 4 à un nom spécifique, on l’appelle le “**Jim carré**”.
 
 ### La Beugnette
 
@@ -113,6 +89,6 @@ Lorsque l’équipe gagne la partie uniquement en faisant des borrants sur tous 
 ### La Gadoline - Seul type de jeu ou l’on peut perdre.
 
 Ne jamais revenir jusqu’au 6 sinon  la partie est perdu.
-****La partie commence comme les autres.
+La partie commence comme les autres.
 
 Dès le premier 6 d’obtenu la partie est lancée, mais si par malchance on revient plus tard dans la parti au chiffre 6 (après cinq lancés pour le chiffre 5 sans l’obtenir) on revient au 6 et la partie est perdu. Toutes les autres règles fonctionnent.

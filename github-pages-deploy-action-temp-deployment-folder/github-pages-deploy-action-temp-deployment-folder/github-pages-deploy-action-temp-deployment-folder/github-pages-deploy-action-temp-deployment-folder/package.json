@@ -4,7 +4,7 @@
   "description": "La voie romaine est un jeu de dés en coopération.",
   "main": "index.js",
   "scripts": {
-    "test": "markdown-to-html --style ./style.css --output test/index.html"
+    "test": "markdown-to-html --style ./style.css --no-corners --output test/index.html"
   },
   "repository": {
     "type": "git",
