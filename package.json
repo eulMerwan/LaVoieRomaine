@@ -1,0 +1,22 @@
+{
+  "name": "lavoieromaine",
+  "version": "1.0.0",
+  "description": "La voie romaine est un jeu de dés en coopération.",
+  "main": "index.js",
+  "scripts": {
+    "test": "markdown-to-html --style ./style.css --output test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eulMerwan/LaVoieRomaine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eulMerwan/LaVoieRomaine/issues"
+  },
+  "homepage": "https://github.com/eulMerwan/LaVoieRomaine#readme",
+  "dependencies": {
+    "markdown-to-html-cli": "^5.0.3"
+  }
+}
