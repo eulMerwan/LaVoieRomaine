@@ -1,0 +1,30 @@
+name: "Build and deploy Github pages"
+
+on:
+  push:         
+    branches:
+      - master  
+      
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: "Checkout"
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: "Build Markdown to HTML"
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: ./README.md
+          output: ./index.html
+          favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎲</text></svg>
+    
+      - name: "Deploy Github Pages"
+        uses: JamesIves/github-pages-deploy-action@4.7.3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages     
+          FOLDER: ./
