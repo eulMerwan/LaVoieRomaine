@@ -113,6 +113,6 @@ Lorsque l’équipe gagne la partie uniquement en faisant des borrants sur tous 
 ### La Gadoline - Seul type de jeu ou l’on peut perdre.
 
 Ne jamais revenir jusqu’au 6 sinon  la partie est perdu.
-La partie commence comme les autres.
+****La partie commence comme les autres.
 
 Dès le premier 6 d’obtenu la partie est lancée, mais si par malchance on revient plus tard dans la parti au chiffre 6 (après cinq lancés pour le chiffre 5 sans l’obtenir) on revient au 6 et la partie est perdu. Toutes les autres règles fonctionnent.
